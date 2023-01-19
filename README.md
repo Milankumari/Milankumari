@@ -1,7 +1,7 @@
 ### Hi Developers 👋
 
 [![YouTube Badge](https://img.shields.io/badge/YouTube-DeveloperFunnel-red)](https://www.youtube.com/developerfunnel)
-[![Linkedin Badge](https://img.shields.io/badge/-Aakash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/milan-shah-807826178/)](https://www.linkedin.com/in/milan-shah-807826178/)
+[![Linkedin Badge](https://img.shields.io/badge/-Milan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/milan-shah-807826178/)](https://www.linkedin.com/in/milan-shah-807826178/)
 
 
 I'm
