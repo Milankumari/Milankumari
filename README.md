@@ -9,7 +9,6 @@ FrontEnd Developer
 The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. I have a wide range of skills that include design (Figma, Adobe Photoshop, Adobe Illustrator, Coreldraw), front-end development (React, ReactJs, HTML5, CSS3, Javascript, Responsive, UX).
 
 
-![Visitor Count](https://profile-counter.glitch.me/aakashdeveloper/count.svg)
 
 
 Languages and Tools: 
